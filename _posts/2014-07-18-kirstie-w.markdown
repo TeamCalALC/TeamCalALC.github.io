@@ -3,10 +3,7 @@ layout: default
 modal-id: 1
 date: 2017-11-19
 img: kirstie-fundraising-pic.jpg
-alt: Kirstie
-project-date: ??PROJECTDATE??
-client: ??CLIENT??
-category: ??CATEGORY??
+alt: Kirstie W
+fundraisinglink: https://tofighthiv.org/goto/kirstie
 description: AIDS Lifecycle 2018 will be Kirstie's 10th ride from San Francisco to LA.
-
 ---
